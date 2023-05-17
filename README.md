@@ -23,6 +23,10 @@ Este es un clon del famoso juego T-Rex de Google, desarrollado utilizando HTML, 
 6. Tu puntuación se muestra en la parte superior derecha de la pantalla.
 7. Si fallas y pierdes, puedes reiniciar el juego haciendo clic en la pantalla nuevamente o presionando la barra espaciadora.
 
+## Responsive
+
+El proyecto esta totalmente adaptado para dispositivos moviles (Celulares, Tables).
+
 ## Personalización
 
 Si deseas personalizar el juego o agregar nuevas características, puedes modificar el código fuente fácilmente. El archivo principal es `index.html`, donde encontrarás la estructura HTML básica, en el archivo `style.css` encontraras los estilos del juego y la referencia a la logica del juego la encontraras en el archivo `script.js`.
