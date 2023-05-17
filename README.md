@@ -27,7 +27,7 @@ Puedes acceder al juego haciendo clic en este link [https://t-rex-beta.vercel.ap
 
 ## Responsive
 
-El proyecto esta totalmente adaptado para dispositivos moviles (Celulares, Tables).
+El proyecto esta totalmente adaptado para dispositivos moviles (Celulares y Tables).
 
 ## Personalización
 
