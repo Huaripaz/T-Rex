@@ -25,7 +25,7 @@ Este es un clon del famoso juego T-Rex de Google, desarrollado utilizando HTML, 
 
 ## Personalización
 
-Si deseas personalizar el juego o agregar nuevas características, puedes modificar el código fuente fácilmente. El archivo principal es `index.html`, donde encontrarás la estructura HTML básica y la referencia a los estilos CSS y scripts JavaScript.
+Si deseas personalizar el juego o agregar nuevas características, puedes modificar el código fuente fácilmente. El archivo principal es `index.html`, donde encontrarás la estructura HTML básica, en el archivo `style.css` encontraras los estilos del juego y la referencia a la logica del juego la encontraras en el archivo `script.js`.
 
 ## Contribuciones
 
