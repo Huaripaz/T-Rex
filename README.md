@@ -15,6 +15,8 @@ Este es un clon del famoso juego T-Rex de Google, desarrollado utilizando HTML, 
 
 ## Cómo jugar
 
+Puedes acceder al juego haciendo clic en este link [https://t-rex-beta.vercel.app/] o desde este mismo repositorio.
+
 1. Clona o descarga este repositorio.
 2. Abre el archivo `index.html` en tu navegador web.
 3. Haz clic en la pantalla o presiona la barra espaciadora para iniciar el juego.
