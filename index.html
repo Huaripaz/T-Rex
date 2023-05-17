@@ -174,7 +174,7 @@
                 font-size: 16px;
             }
 
-            .suelo{
+            .suelo {
                 width: 200%;
             }
         }
@@ -194,7 +194,6 @@
     </div>
 
     <div class="game-over">GAME OVER</div>
-
 
     <script>
 
@@ -239,6 +238,7 @@
 
         var parado = false;
         var saltando = false;
+        var colision = false;
 
         var tiempoHastaObstaculo = 2;
         var tiempoObstaculoMin = 0.7;
@@ -417,6 +417,7 @@
         function GameOver() {
             Estrellarse();
             gameOver.style.display = "block";
+            colision = true;
         }
 
         function DetectarColision() {
@@ -444,6 +445,15 @@
             );
         }
 
+        function RestartGame() {
+            if (colision) {
+                location.reload(); // Recarga la página actual
+            }
+        }
+
+        document.addEventListener("click", RestartGame);
+        document.addEventListener("touchend", RestartGame);
+        document.addEventListener("keydown", RestartGame);
 
     </script>
 </body>
