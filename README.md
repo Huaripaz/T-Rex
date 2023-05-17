@@ -11,7 +11,7 @@ Este es un clon del famoso juego T-Rex de Google, desarrollado utilizando HTML, 
 
 ## Capturas de pantalla
 
-![Juego T-Rex](p6.png)
+![Juego T-Rex](screenshot.png)
 
 ## Cómo jugar
 
